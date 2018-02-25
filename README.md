@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-Part of the coursework
+Different projects as part of the coursework
